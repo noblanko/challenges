@@ -1,6 +1,6 @@
 var imgSource;
 var num1 = 0;
-var x = 11;
+var x = 10;
 
   document.getElementById("useWater").onclick = function waterFill() {
 
